@@ -35,7 +35,6 @@ Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center
 
 
 
-<img align="right" width="100" height="100" src="(![newplot (57)](https://user-images.githubusercontent.com/76845631/192099682-d8bb1492-aec3-422a-807f-a80d0f7cb5bb.png)
-)">
+<img align="right" width="100" height="100" src="![newplot (57)](https://user-images.githubusercontent.com/76845631/192099682-d8bb1492-aec3-422a-807f-a80d0f7cb5bb.png)">
 
  
