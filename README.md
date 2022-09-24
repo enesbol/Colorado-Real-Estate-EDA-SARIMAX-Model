@@ -21,7 +21,7 @@ Deciding which city in Colorado to invest in
 
 7 - Model evaluating and comparison with EDA. 
 
-** Datas: **
+**Datas:**
 
 
 Time Series - Seasonality Adjusted Home Values Data from Zillow : https://www.zillow.com/research/data/
