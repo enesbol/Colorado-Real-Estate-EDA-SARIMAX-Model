@@ -1,6 +1,5 @@
 # Colorado-Real-Estate-EDA-SARIMAX-Model
 
-Colorado Real Estate Profile 
 
 **Project Goal:**
 Deciding which city in Colorado to invest in
@@ -33,18 +32,20 @@ Time Series - Seasonality Adjusted Home Values Data from Zillow : https://www.zi
 
 Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center/
 
-<p float="left">
+
+<div style={{display:"flex",flexWrap:"wrap",gap:"20px"}} >
    
    <img src="https://user-images.githubusercontent.com/76845631/192099868-30b1d8b1-3657-491a-8b4c-a375757b85ca.png" width= "40%"  />
 
    <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width= "40%" />
 
-   <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width= "40%" />
-
-
+   <img src="https://user-images.githubusercontent.com/76845631/192101443-26cd886b-6302-4829-b032-e83feeb218d2.png" width= "40%" />
    
-</p>
+   <img src="https://user-images.githubusercontent.com/76845631/192101464-ac2a6d80-6176-439f-8a60-fbe2a41a078f.png" width= "40%" />
 
 
+</div>
+
+ 
 
  
