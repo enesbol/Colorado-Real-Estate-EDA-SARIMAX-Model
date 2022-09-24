@@ -37,13 +37,13 @@ Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center
    
    
    
-   <img src="https://user-images.githubusercontent.com/76845631/192099868-30b1d8b1-3657-491a-8b4c-a375757b85ca.png" width="100%"  />
+   <img src="https://user-images.githubusercontent.com/76845631/192099868-30b1d8b1-3657-491a-8b4c-a375757b85ca.png" width="60%"  />
 
-   <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width="60%" />
 
-   <img src="https://user-images.githubusercontent.com/76845631/192101443-26cd886b-6302-4829-b032-e83feeb218d2.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/76845631/192101443-26cd886b-6302-4829-b032-e83feeb218d2.png" width="60%" />
    
-   <img src="https://user-images.githubusercontent.com/76845631/192101464-ac2a6d80-6176-439f-8a60-fbe2a41a078f.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/76845631/192101464-ac2a6d80-6176-439f-8a60-fbe2a41a078f.png" width="60%" />
 
 
 </div>
