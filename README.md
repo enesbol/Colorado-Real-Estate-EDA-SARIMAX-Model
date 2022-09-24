@@ -35,9 +35,6 @@ Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center
 
 
 
-<img align="left" width="20" height="20" src="![newplot (57)](https://user-images.githubusercontent.com/76845631/192099189-500ad78d-f865-42ee-a3f5-c9defa00f4dd.png)">
-![newplot (38)](https://user-images.githubusercontent.com/76845631/192099199-aa9f5811-756b-4f65-8960-a454e6ed9071.png) 
-
+<img align="right" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://user-images.githubusercontent.com/76845631/192099220-8560ed21-14cf-444b-9fee-9bca7732e701.png)">
 
  
-![newplot (41)](https://user-images.githubusercontent.com/76845631/192099220-8560ed21-14cf-444b-9fee-9bca7732e701.png)
