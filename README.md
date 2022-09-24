@@ -5,6 +5,11 @@ Colorado Real Estate Profile
 **Project Goal:**
 Deciding which city in Colorado to invest in
 
+
+**Project Description:**
+Monthly median house prices data for Colorado's regions and cities were required, financial / macroeconomic and demographic factors and their effects on house prices were investigated. With the inferences made from these data and the Sarımax model, the cities that will bring the highest profit after 1 year were determined.
+
+
 **Project Steps**
 
 1 - Data Gathering from Zillow and Redfin
