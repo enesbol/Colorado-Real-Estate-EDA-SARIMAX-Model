@@ -34,7 +34,7 @@ Monthly median house prices data for Colorado's regions and cities were required
 1.2 - Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center/
 
 
-2 - Financial / Macroeconomic Datas
+****2 - Financial / Macroeconomic Datas****
 
 2.1 - The Consumer Price Index (CPI)
 2.2 - Inflation
@@ -54,7 +54,7 @@ https://fred.stlouisfed.org/series/DGS10
 https://fred.stlouisfed.org/series/M2V#:~:text=The%20velocity%20of%20money%20is,services%20per%20unit%20of%20time
 
 
-3 - Demographic Datas
+****3 - Demographic Datas****
 
 3-1 Migration
 https://gis.dola.colorado.gov/population/data/regional-data-lookup/
@@ -62,12 +62,12 @@ https://gis.dola.colorado.gov/population/data/regional-data-lookup/
 3-2 Colorado Annually Total Population
 https://fred.stlouisfed.org/series/COPOP
 
-4 - Dependent Variable Colorado House Prices
+****4 - Dependent Variable Colorado House Prices****
 
 All-Transactions House Price Index for Colorado Thousand Dollars
 
 
-5 - Total Housing Units Data 
+****5 - Total Housing Units Data****
 https://gis.dola.colorado.gov/population/data/regional-data-lookup/ 
 
 
