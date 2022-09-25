@@ -38,6 +38,7 @@ Monthly median house prices data for Colorado's regions and cities were required
 
 2.1 - The Consumer Price Index (CPI)
 2.2 - Inflation
+
 https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-
 
 2.3 - The US Dollar Index (DXY, DX, USDX)
