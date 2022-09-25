@@ -30,6 +30,7 @@ Monthly median house prices data for Colorado's regions and cities were required
 ****1 - Median House Price Datas****
 
 1.1 - Time Series - Seasonality Adjusted Home Values Data from Zillow : https://www.zillow.com/research/data/
+
 1.2 - Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center/
 
 
@@ -37,7 +38,6 @@ Monthly median house prices data for Colorado's regions and cities were required
 
 2.1 - The Consumer Price Index (CPI)
 2.2 - Inflation
-
 https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-
 
 2.3 - The US Dollar Index (DXY, DX, USDX)
@@ -62,6 +62,7 @@ https://gis.dola.colorado.gov/population/data/regional-data-lookup/
 https://fred.stlouisfed.org/series/COPOP
 
 4 - Dependent Variable Colorado House Prices
+
 All-Transactions House Price Index for Colorado Thousand Dollars
 
 
