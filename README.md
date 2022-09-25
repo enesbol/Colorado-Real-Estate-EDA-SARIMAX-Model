@@ -27,10 +27,50 @@ Monthly median house prices data for Colorado's regions and cities were required
 
 **Datas:**
 
+****1 - Median House Price Datas****
 
-Time Series - Seasonality Adjusted Home Values Data from Zillow : https://www.zillow.com/research/data/
+1.1 - Time Series - Seasonality Adjusted Home Values Data from Zillow : https://www.zillow.com/research/data/
+1.2 - Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center/
 
-Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center/
+
+2 - Financial / Macroeconomic Datas
+
+2.1 - The Consumer Price Index (CPI)
+2.2 - Inflation
+
+https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-
+
+2.3 - The US Dollar Index (DXY, DX, USDX)
+https://finance.yahoo.com/quote/DX-Y.NYB/history/
+
+2.4 - M1 Money Supply
+https://fred.stlouisfed.org/series/M1SL
+
+2.5 - Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity
+https://fred.stlouisfed.org/series/DGS10
+
+2.6 - Velocity of M2 Money Stock
+https://fred.stlouisfed.org/series/M2V#:~:text=The%20velocity%20of%20money%20is,services%20per%20unit%20of%20time
+
+
+3 - Demographic Datas
+
+3-1 Migration
+https://gis.dola.colorado.gov/population/data/regional-data-lookup/
+
+3-2 Colorado Annually Total Population
+https://fred.stlouisfed.org/series/COPOP
+
+4 - Dependent Variable Colorado House Prices
+All-Transactions House Price Index for Colorado Thousand Dollars
+
+
+5 - Total Housing Units Data 
+https://gis.dola.colorado.gov/population/data/regional-data-lookup/ 
+
+
+
+
 
 
 <div style={{display:"flex",flexWrap:"wrap",gap:"20px", alignItems:"center", justifyContent:"center"}} >
