@@ -9,11 +9,11 @@ Deciding which city in Colorado to invest in
 Monthly median house prices data for Colorado's regions and cities were required, financial / macroeconomic and demographic factors and their effects on house prices were investigated. With the inferences made from these data and the Sarımax model, the cities that will bring the highest profit after 1 year were determined.
 
 
-**Project Steps**
+****Project Steps****
 
 1 - Data Gathering from Zillow and Redfin
 
-2 - Filter cleand and select datas for data analysis.
+2 - Data preparation for data analysis.
 
 3 - Exploratory data analysis.
 
@@ -21,7 +21,7 @@ Monthly median house prices data for Colorado's regions and cities were required
 
 5 - Feature Engineering for investigating which factors affect house prices, selecting features.
 
-6 - SARIMAX Model building Predicting 2023 House Prices for 320 City.
+6 - Building SARIMAX model for predicting 320 citys 2023 house prices.
 
 7 - Model evaluating and comparison with EDA. 
 
