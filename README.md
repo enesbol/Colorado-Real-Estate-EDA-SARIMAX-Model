@@ -36,18 +36,17 @@ Monthly Median Sale Prices from redfin : https://www.redfin.com/news/data-center
 <div style={{display:"flex",flexWrap:"wrap",gap:"20px", alignItems:"center", justifyContent:"center"}} >
    
    <h>Adjusting the frequency of missing data in some cities and filling the missing data.</p>
-   
-   
    <img src="https://user-images.githubusercontent.com/76845631/192099868-30b1d8b1-3657-491a-8b4c-a375757b85ca.png" width="80%"  />
   
-   <h>Some of the regions yearly ROI's until 2022<p>
    
+   <h>Some of the regions yearly ROI's until 2022<p>   
    <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width="80%" />
    
-   <h>Denver Median House Price Prediction for 2023 with confidence intervals<p>
       
+   <h>Denver Median House Price Prediction for 2023 with confidence intervals<p>      
    <img src="https://user-images.githubusercontent.com/76845631/192140262-04f3bf0c-7127-4373-8451-41bd00f96a3a.png" width="80%" />
    
+      
    <h>Cities with the highest ROI<p>      
    <img src="https://user-images.githubusercontent.com/76845631/192101464-ac2a6d80-6176-439f-8a60-fbe2a41a078f.png" width="80%" />
 
