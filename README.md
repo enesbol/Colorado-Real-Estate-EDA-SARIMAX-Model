@@ -84,7 +84,12 @@ https://gis.dola.colorado.gov/population/data/regional-data-lookup/
    <h>Some of the regions yearly ROI's until 2022<p>   
    <img src="https://user-images.githubusercontent.com/76845631/192100116-edbabd9a-9942-4ba7-acfd-4c03d6508d43.png" width="80%" />
    
-      
+   
+   <h> Denver Median List Price Median Sale Price <p>      
+   <img src="https://user-images.githubusercontent.com/76845631/196011431-5c335aca-85ac-4dc6-a383-8e41643d0b3e.png" width="80%" />     
+   
+
+   
    <h>Denver Median House Price Prediction for 2023 with confidence intervals<p>      
    <img src="https://user-images.githubusercontent.com/76845631/192140262-04f3bf0c-7127-4373-8451-41bd00f96a3a.png" width="80%" />
    
